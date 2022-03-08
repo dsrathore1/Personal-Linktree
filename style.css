@@ -31,10 +31,11 @@
 }
 
 .dp {
-	height: 7.5rem;
-	width: 6.5rem;
+	height: 7.9rem;
+	width: 7rem;
 	border-radius: 50%;
 	border: none;
+	object-fit: cover;
 	outline: none;
 	box-shadow: 1px 2px 12px 1px rgba(0, 0, 0, .2);
 	margin-bottom: 1rem;
